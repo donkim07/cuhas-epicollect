@@ -1,6 +1,6 @@
 # LAMP for epicollect5
 
-Epicollect5 server runs on Ubuntu 18 LTS & PHP 7.1
+Cuhas server runs on Ubuntu 18 LTS & PHP 7.1
 
 - install apache 2
   ```
@@ -152,7 +152,7 @@ Epicollect5 server runs on Ubuntu 18 LTS & PHP 7.1
 
 ## Folders Structure & Permissions
 
-Once installed, Epicollect5 gets the following folder structure and simlinks
+Once installed, Cuhas gets the following folder structure and simlinks
 
 ```
 /var/www/html_prod
@@ -182,7 +182,7 @@ We provide this software as is, under MIT license, for the benefit and use of th
 provide support for its use or modification.
 
 You are not granted rights or licenses to the trademarks of the CGPS or any party, including without limitation the
-Epicollect5 name or logo.
+Cuhas name or logo.
 If you fork the project and publish it, please choose another name.
 
 

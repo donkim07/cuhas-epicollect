@@ -55,7 +55,7 @@ gulp.task('vendor-dataviewer-css', function () {
         .pipe(gulp.dest('./public/css/'));
 });
 
-/* Build js dependencies for Epicollect5 components */
+/* Build js dependencies for Cuhas components */
 //site
 gulp.task('site-js', function () {
     return gulp.src(['./resources/assets/js/site/*.js'])
