@@ -449,7 +449,7 @@ task('composer:dump-autoload', function () {
     ]);
 });
 
-desc('Update Epicollect5 to a new release');
+desc('Update Cuhas to a new release');
 task('update', [
     'check:not_root',
     'artisan:down_with_secret',
@@ -479,7 +479,7 @@ task('check:not_root', function () {
     }
 });
 
-desc('Install Epicollect5 release from scratch');
+desc('Install Cuhas release from scratch');
 try {
     task('install', [
         'check:not_root',
